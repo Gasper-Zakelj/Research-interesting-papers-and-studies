@@ -1,0 +1,10 @@
+TESLA MOTOR
+https://www.tesla.com/blog/induction-versus-dc-brushless-motors
+
+DC je replaced with
+
+BLDC (brushless DC)
+
+or
+
+Induction motor (Squirrel cage)
